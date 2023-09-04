@@ -1,15 +1,11 @@
-package Modelo;
+package com.mycompany.labingsoftpolimorfismo.LabIngSoftPolimorfismo;
 
-import Modelo.Viaje;
-import Modelo.ViajeFamiliar;
-import Modelo.ViajeIncentivo;
-import Modelo.ViajeIndividual;
-import Modelo.ViajeTodoIncluido;
 import java.util.logging.Logger;
 import java.util.logging.Level;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 /**

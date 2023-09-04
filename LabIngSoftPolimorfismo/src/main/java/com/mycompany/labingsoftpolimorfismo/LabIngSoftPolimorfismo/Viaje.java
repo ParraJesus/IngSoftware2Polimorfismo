@@ -1,4 +1,4 @@
-package Modelo;
+package com.mycompany.labingsoftpolimorfismo.LabIngSoftPolimorfismo;
 
 import java.util.Date;
 
