@@ -1,4 +1,4 @@
-package com.mycompany.labingsoftpolimorfismo.LabIngSoftPolimorfismo;
+package Modulo;
 
 import java.util.Date;
 
@@ -29,7 +29,7 @@ public class ViajeFamiliar extends Viaje {
     @Override
     public String descripcion() 
     {
-        return "";
+        return "Viaje para disfrutar con toda tu familia";
     }
     
     @Override
@@ -58,3 +58,4 @@ public class ViajeFamiliar extends Viaje {
     }
     // </editor-fold>
 }
+
